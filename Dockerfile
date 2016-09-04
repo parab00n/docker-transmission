@@ -10,5 +10,5 @@ RUN \
 COPY root/ /
 
 # ports and volumes
-EXPOSE 9085 51410
+EXPOSE 9091 51413
 VOLUME /config /downloads /watch
